@@ -2,6 +2,11 @@
 
 Seja bem-vindo(a) ao meu repositório App de Receitas. Esse projeto foi desenvolvido durante o curso de formação da [TRYBE](https://www.betrybe.com/), feito em grupo com mais 3 pessoas estudantes. O projeto consiste em um App que consome 2 APIs, uma de [comidas](https://www.themealdb.com/) e outra de [bebidas](https://www.thecocktaildb.com/api.php), onde o usuário realiza seu login e busca pela comida ou bebida de seu interesse, podendo visualizar instruções de preparo, informações e sugestões.
 
+## Acesse o projeto
+- Clique [aqui]() para inicializar o projeto.
+- O projeto utiliza `resolução de tela de 360 x 640` (360 pixels de largura por 640 pixels de altura).
+- Você pode alterar a resolução da página facilmente clicando na tecla F12 do seu teclado, em seguida preencha os campos no canto superior da tela.
+
 ![image](https://user-images.githubusercontent.com/80549950/144871581-e96a7982-bc19-49ac-baf0-c6c87d0da77d.png)
 
 

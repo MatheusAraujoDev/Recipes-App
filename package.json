@@ -23,7 +23,7 @@
     "react-scripts": "3.4.1",
     "websocket-extensions": ">=0.1.4"
   },
-  "homepage": "https://MatheusAraujoDev.github.io/Recipes-App",
+  "homepage": "https://matheusaraujodev.github.io/Recipes-App/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

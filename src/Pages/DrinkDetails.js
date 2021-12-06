@@ -13,7 +13,7 @@ function DrinkDetails({ match: { params: { id } }, location: { pathname } }) {
   const [recipes, setRecipes] = useState([]);
   const { veriryrecipe } = veriryrecipeisdone;
 
-  // Didmount - Faz fetch trazendo a receita pelo id e seta o stado recipes com as receita
+  // ComponentDidmount - Faz fetch trazendo a receita pelo id e seta o estado recipes com as receita
   useEffect(() => {
     const getApi = async () => {
       const endPoint = `https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=${id}`;

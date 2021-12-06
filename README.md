@@ -2,6 +2,9 @@
 
 Seja bem-vindo(a) ao meu repositório App de Receitas. Esse projeto foi desenvolvido durante o curso de formação da [TRYBE](https://www.betrybe.com/), feito em grupo com mais 3 pessoas estudantes. O projeto consiste em um App que consome 2 APIs, uma de [comidas](https://www.themealdb.com/) e outra de [bebidas](https://www.thecocktaildb.com/api.php), onde o usuário realiza seu login e busca pela comida ou bebida de seu interesse, podendo visualizar instruções de preparo, informações e sugestões.
 
+![image](https://user-images.githubusercontent.com/80549950/144871581-e96a7982-bc19-49ac-baf0-c6c87d0da77d.png)
+
+
 ---
 
 # Habilidades
